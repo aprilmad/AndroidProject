@@ -1,5 +1,5 @@
 package com.addu.ece298exercise1;
-test2
+test na naman
 import com.addu.ece298exercise1.R;
 import com.addu.ece298exercise1.R.id;
 
